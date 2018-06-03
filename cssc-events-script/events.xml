@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Students Club Events</title>
+    <atom:link href="https://cssc.asn.au/events.rss" rel="self" type="application/rss+xml" />
+    <link>https://cssc.asn.au/</link>
+    <description>This is an RSS feed so you can follow all of the events we run</description>
+
+    <item>
+      <title>CSSC &amp; UCC DOTA2 Tournament</title>
+      <guid>https://cssc.asn.au/events#4 </guid>
+      <link>https://www.cssc.asn.au/evolve/events/dota2-2017/</link>
+      <pubDate>Tue, 09 Oct 2017 18:00:00 +0800</pubDate>
+      <description> <![CDATA[
+        We have a fancy page now :D </br>
+        (Thanks Money Lord)</br>
+        ]]>
+      </description>
+    </item>
+
+
+    <item>
+      <title>MySQL Workshop</title>
+      <guid>https://cssc.asn.au/events#3 </guid>
+      <link>https://www.facebook.com/events/345812795845380/ </link>
+      <pubDate>Wed, 06 Sep 2017 12:00:00 +0800</pubDate>
+      <description> <![CDATA[
+        Oops, forgot to actually say that the CSSC has made the MySQL Workshop an ongoing thing, runs each week on Mondays at 5pm in the seminar room (CSSE 1.24, drop by the club beforehand if you need a hand to find it)
+        <br/>
+        If you're curious about what we'll be covering, head over to our contact page and send us a message :)
+      ]]>
+      </description>
+    </item>
+
+    <item>
+      <title>CSSC DOTA2 Tournament Expression of Interest</title>
+      <guid>https://cssc.asn.au/events#2 </guid>
+      <link>https://goo.gl/forms/oQwm1xdMhFplgp6V2</link>
+      <pubDate>Tue, 22 Aug 2017 12:00:00 +0800</pubDate>
+      <description> <![CDATA[
+        The Computer Science Students Club with the University Computer Club is at long last organizing a DOTA2 Tournament. <br/>
+        Currently we're in the expression of interest/Pre-registration stage. </br>
+        We'll close registration on the 6th of October, so get on it :D </br>
+
+        (If you're on your own but you'd like to be a part of it, we'll see if we can find you a team, or depending on interest it might end up being 1v1 anyway) <br>
+        So if this is something you're interested in, follow the further information link to google forms so we can get your details :)
+        <br/> <br/>
+        Facebook link: <a href="https://www.facebook.com/events/281958385638529/"> https://www.facebook.com/events/281958385638529/ </a> <br/>
+        UPDATE: <a href="https://cssc.asn.au/events#4"> Update Link </a>
+      ]]>
+      </description>
+    </item>
+
+
+    <item>
+      <title>MySQL Workshop</title>
+      <guid>https://cssc.asn.au/events#1 </guid>
+      <link>https://www.facebook.com/events/1261325670663585/ </link>
+      <pubDate>Tue, 15 Aug 2017 12:00:00 +0800</pubDate>
+      <description> <![CDATA[
+        The CSSC is finally doing an education event!<br/>
+        Monday the 21st of August we'll be having a small and informal MySQL workshop in the CSSE Tutorial Room (2.28), It will mostly be a Q &amp A session if anyone is in need of help or guidance with CITS1402 <br/>
+        There will be a small short tutorial prepared, but I'm not an official tutor and when I personally did this unit (some time ago now) It was quite different, so I'd love for some students who are on top of the unit to come along too. <br/>
+        My grand plan if there's enough interest is to potentially set up a study group as the CSSC can book this room weekly and I'd love to establish something like that<br/> <br/>
+
+        p.s. If this time is inconvient for you and either the small prepared tutorial or the study group interests you, send me an email at csscuwa0(at)gmail.com <br/>
+      ]]>
+      </description>
+    </item>
+
+
+    <item>
+      <title>Quiz Night</title>
+      <guid>https://cssc.asn.au/events#0 </guid>
+      <link>https://www.facebook.com/events/1426919497355111/ </link>
+      <pubDate>Sat, 29 Jul 2017 12:00:00 +0800</pubDate>
+      <description> <![CDATA[
+        It's time for the annual CSSC Quiz Night! Come along for a great time of questions, activities, colouring competition and prizes! <br/>
+        It will be held on Friday the 18th of August at the UWA Tavern starting around 7pm.  <br/> <br/>
+        <b> Tickets: </b>  <br/>
+          $10 for members.   <br/>
+          $15 for non members.  <br/>
+          or $70 for a table of 8  <br/>
+        So it's best to bring a few friends along! Tickets will be available on the night or in the club leading up to the event<br/>
+        Alcohol will be available at the bar, but no BYO! <br/> <br/>
+        P.S.: This is an 18+ event <br/>
+      ]]>
+      </description>
+    </item>
+
+  </channel>
+</rss>
